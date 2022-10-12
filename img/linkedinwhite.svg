@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="512" height="512" preserveAspectRatio="xMidYMid meet"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+
+
+<g class="currentLayer" style=""><title>Layer 1</title><g transform="translate(0,512) scale(0.10000000149011612,-0.10000000149011612) " fill="#ffffff" stroke="none" id="svg_1" class="selected" fill-opacity="1">
+<path d="M620.4945058822632,4860.989011764526 c-222,-40 -393,-192 -440,-392 c-89,-377 195,-691 600,-665 c264,17 452,157 519,386 c20,70 21,209 1,286 c-46,176 -183,315 -365,370 c-65,19 -244,28 -315,15 z" id="svg_2" fill="#ffffff" fill-opacity="1"/>
+<path d="M3618.494505882263,3435.9890117645264 c-87,-16 -156,-38 -248,-80 c-148,-68 -353,-226 -460,-354 l-50,-60 l-5,217 l-5,217 l-512,3 l-513,2 l0,-1550 l0,-1550 l512,2 l513,3 l5,960 l5,960 l27,62 c57,135 166,256 278,313 c198,100 457,66 597,-77 c64,-65 115,-168 145,-290 c21,-86 22,-105 25,-1010 l4,-923 l515,0 l515,0 l-4,998 c-4,1069 -4,1075 -57,1282 c-128,501 -448,804 -922,874 c-125,19 -265,19 -365,1 z" id="svg_3" fill="#ffffff" fill-opacity="1"/>
+<path d="M225.49450588226318,1830.9890117645264 l0,-1550 l515,0 l515,0 l0,1550 l0,1550 l-515,0 l-515,0 l0,-1550 z" id="svg_4" fill="#ffffff" fill-opacity="1"/>
+</g></g></svg>
